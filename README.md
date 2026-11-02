@@ -7,7 +7,7 @@ Documentación técnica del Trabajo Práctico Integrador y Progresivo de Organiz
 
 Esta herramienta busca agilizar la operatoria comercial del negocio, reducir errores humanos en la carga de datos y servir como base tecnológica escalable para la toma de decisiones administrativas.
 
-Alumno:	Kevin Grasmick (Comisión )
+Alumno:	Kevin Grasmick (Comisión 2)
 Asignatura:	Organización Empresarial — UTN, TUPAD
 Docentes:	Gabriela Martínez · Noemí Andrea Ramos · Guillermo Miguel Carvajal
 Entrega:	N° 4 — Procesos, trabajo colaborativo y control integrador
