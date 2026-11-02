@@ -1,4 +1,5 @@
 TPI-Mundo-Sabores-Heladeria: Modulo de Control de Stock 
+
 Documentación técnica del Trabajo Práctico Integrador y Progresivo de Organización Empresarial (UTN · TUPAD). El caso de estudio es Mundo Sabores , empresa familiar de comercializacion de postres y helados, y el sistema modelado  es una solución informática desarrollada en Python, diseñada para automatizar y optimizar la gestión de inventario. Su propósito principal es reemplazar los registros manuales en papel por un control digital y centralizado permitiendo:
 - Gestión de Inventario en Tiempo Real: Registrar de manera rápida el stock actual de postres helados, categorías y presentaciones.
 - Control de Entradas y Salidas: Procesar lotes de productos y actualizar automáticamente las existencias a medida que se concretan las ventas.
