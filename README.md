@@ -45,7 +45,7 @@ Este proyecto aplica las mejores prácticas de control de versiones y flujo de t
 
 La planificación y seguimiento del proyecto se realiza a través del tablero interactivo **GitHub Projects** utilizando metodología Kanban:
 
-👉 **[Acceso al Tablero de GitHub Projects](https://github.com/users/kevingrasmick/projects/1)** *(reemplazar con tu enlace real)*
+👉 **[Acceso al Tablero de GitHub Projects](https://github.com/users/kevin-grasmick96/projects/2/views/1) 
 
 ### 📝 Historias de Usuario (HU)
 
