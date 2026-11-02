@@ -11,3 +11,4 @@ Alumno:	Kevin Grasmick (Comisión 2)
 Asignatura:	Organización Empresarial — UTN, TUPAD
 Docentes:	Gabriela Martínez · Mario Raul Lopez · Daniel Eduardo Martinez
 Entrega:	N° 4 — Procesos, trabajo colaborativo y control integrador
+
