@@ -9,5 +9,5 @@ Esta herramienta busca agilizar la operatoria comercial del negocio, reducir err
 
 Alumno:	Kevin Grasmick (Comisión 2)
 Asignatura:	Organización Empresarial — UTN, TUPAD
-Docentes:	Gabriela Martínez · Noemí Andrea Ramos · Guillermo Miguel Carvajal
+Docentes:	Gabriela Martínez · Mario Raul Lopez · Daniel Eduardo Martinez
 Entrega:	N° 4 — Procesos, trabajo colaborativo y control integrador
